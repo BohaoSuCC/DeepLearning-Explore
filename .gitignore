@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 *.gz
 Basic-Models/mnist/MNIST/raw/t10k-images-idx3-ubyte
+*.png
