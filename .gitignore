@@ -152,7 +152,6 @@ cython_debug/
 #.idea/
 *.gz
 Basic-Models/mnist/MNIST/raw/t10k-images-idx3-ubyte
-*.png
 Basic-Models/Data/MNIST/MNIST/raw/t10k-images-idx3-ubyte
 Basic-Models/Data/MNIST/MNIST/raw/t10k-labels-idx1-ubyte
 Basic-Models/Data/MNIST/MNIST/raw/train-labels-idx1-ubyte
